@@ -4,7 +4,7 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQwc2RnMnN3ZjhrNDB3MG9heHVidmh2bDV0M2xzOW01ZXN2MzNyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WoWm8YzFQJg5i/giphy.gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQwc2RnMnN3ZjhrNDB3MG9heHVidmh2bDV0M2xzOW01ZXN2MzNyaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WoWm8YzFQJg5i/giphy.gif" width="200" height="100"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
